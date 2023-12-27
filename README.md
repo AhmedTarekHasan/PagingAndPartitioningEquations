@@ -1,10 +1,10 @@
-<link rel="canonical" href="https://levelup.gitconnected.com/paging-partitioning-main-equations-to-make-it-easy-44fe89d5290b?sk=f65265d7b4c203ac219e7dec1208c0f2" />
+<link rel="canonical" href="https://www.developmentsimplyput.com/post/paging-partitioning-learn-the-main-equations-to-make-it-easy" />
 
 # Paging/Partitioning — Learn the Main Equations to Make it Easy
 ### Learn paging/partitioning mathematical equations and how to apply them in JavaScript and .NET C# code.
 
 <p align="center">
-  <img src="https://miro.medium.com/max/1400/1*3DSBK86nDEj1EscGMyJrOw.jpeg">
+  <img src="https://static.wixstatic.com/media/488a99_ea327fff2ebb45a3a87249d4c1c0c958~mv2.png">
 </p>
 
 <br/>
@@ -49,4 +49,4 @@ If you are interested into reading more about this topic, you can read [the rest
 [LinkedIn]: https://www.linkedin.com/in/atarekhasan/
 [Friend Links]: https://www.linkedin.com/feed/update/urn:li:activity:6866082670108143616/
 [Newsletter]: https://www.linkedin.com/newsletters/development-simply-put-6866647119655247872/
-[Article]: https://levelup.gitconnected.com/paging-partitioning-main-equations-to-make-it-easy-44fe89d5290b?sk=f65265d7b4c203ac219e7dec1208c0f2
+[Article]: https://www.developmentsimplyput.com/post/paging-partitioning-learn-the-main-equations-to-make-it-easy
